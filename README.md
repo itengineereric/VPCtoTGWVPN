@@ -1,2 +1,2 @@
-# VMware Auto Provisioning with AutoUpdate VM Template 
+# Migrating onprem site to site VPN from VPC to TGW
 ![alt text](VPCtoTGWVPN.jpeg)
